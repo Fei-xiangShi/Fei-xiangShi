@@ -20,7 +20,7 @@
 
 ### Profile Views
 
-counting of visitors to this page in this section started from October 5, 2023
+counting of visitors to this page in this section started from August 5, 2023
 
 ![](https://count.getloli.com/get/@Fei_xiangShi.github.readme)
 
