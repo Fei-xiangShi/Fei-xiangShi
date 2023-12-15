@@ -20,9 +20,9 @@
 
 ### Profile Views
 
-counting of visitors to this page in this section started from August 5, 2023
+counting of visitors to this page in this section started from December 16, 2023
 
-![](https://count.getloli.com/get/@Fei_xiangShi.github.readme)
+<img src="https://counter.seku.su/cmoe?name=Fei-xiangShi&theme=r34" />
 
 
 </br>
