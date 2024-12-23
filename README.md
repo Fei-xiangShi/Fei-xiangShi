@@ -30,8 +30,8 @@ counting of visitors to this page in this section started from December 16, 2023
 
 </br>
 
-[MIT](LICENSE)
-
 </p>
 
 ---
+
+> 我不知道将去何方，但我已在路上
